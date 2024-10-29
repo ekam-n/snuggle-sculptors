@@ -24,6 +24,7 @@ This project employs various programming patterns to enhance functionality and m
 To create an engaging user experience, I incorporated graphics and sound libraries:
 
 - **Fractals**: Used for generating smoke effects in the background of the toy train.
+- **Graphics** All created by me using Adobe Illustrator
 - **Music**: 
   - [Cute Cozy Music Pack](https://1144ghost.itch.io/cutecozy-music-pack) by 1144ghost on itch.io
 - **Sound Effects**:
